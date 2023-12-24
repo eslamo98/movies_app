@@ -1,6 +1,6 @@
 {
   "name": "my_app",
-  "homepage": "http://eslamo98.github.io/movies_app_with_redux",
+  
   "version": "0.1.0",
   "private": true,
   "dependencies": {
